@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2efcd0ec-ddf8-4746-8cbb-678e4564be57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/Landing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Fonts.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/fonts/SukhumvitSet-Text.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/fonts/SukhumvitSet-Text.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/andrea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/circle1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/circle2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/explore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/iphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/maria.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/polina.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/phone/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/phone/img2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Новий Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab01/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab01/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/boot/router/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/pages/home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/pages/profile/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25RBDplEkTAWi2iTM69wZL6sDB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chumi\WebstormProjects\linkstagram\src\ui\boot\router" />
+      <recent name="C:\Users\chumi\WebstormProjects\linkstagram\src\ui\pages\home" />
+      <recent name="C:\Users\chumi\WebstormProjects\linkstagram\src\ui" />
+      <recent name="C:\Users\chumi\WebstormProjects\linkstagram\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efcd0ec-ddf8-4746-8cbb-678e4564be57" name="Changes" comment="" />
+      <created>1645479904208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645479904208</updated>
+      <workItem from="1645479905820" duration="3055000" />
+      <workItem from="1645548589320" duration="8649000" />
+      <workItem from="1645618051415" duration="15357000" />
+      <workItem from="1646729579905" duration="916000" />
+      <workItem from="1646736047211" duration="3185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
