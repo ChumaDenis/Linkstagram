@@ -1,16 +1,16 @@
 import React from "react";
 import {Router} from "./ui/boot/router/index";
-import {Link } from "react-router-dom";
+
+import {Header} from "./ui/components/header"
+import "./index.scss"
 export default function App() {
     return (
         <div className="App">
-            <header>
-                <Link to="/">home</Link>
-                <Link to="/about">profile</Link>
-            </header>
+            <Header/>
             <Router/>
         </div>
     );
 }
+
 
 

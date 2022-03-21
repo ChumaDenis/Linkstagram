@@ -1,0 +1,90 @@
+@import '../../public/fonts/fonts';
+header{
+  .header_container{
+    display: flex;
+    justify-content: space-between;
+    height: 88px;
+    padding: 0 64px;
+    width: 100%;
+    max-width: 1920px;
+  }
+
+  position: fixed;
+
+  box-sizing: border-box;
+  width: 100%;
+
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+
+  display: flex;
+  justify-content: center;
+
+  a{
+    text-decoration: none;
+  }
+
+  .header_logo{
+    font-family: Poppins-ExtraBold monospace;
+    font-weight: 800;
+    font-size: 24px;
+    color: black;
+    align-self: center;
+  }
+  .header_container_button{
+    display: flex;
+
+    *{
+      height: 40px;
+      align-self: center;
+      font-family: Poppins-SemiBold monospace;
+      font-size: 12px;
+
+    }
+    >*:not(:last-child){
+      margin: 0 16px 0 0;
+    }
+
+    .header_home_button{
+      color: white;
+      height: 40px;
+      width: 85px;
+
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+
+
+      background-color: rgba(1, 1, 1, 1);
+      border: 0.5px solid #C9CAD1;
+      box-sizing: border-box;
+      border-radius: 12px;
+
+      order: 0;
+      flex-grow: 0;
+    }
+    .header_language_button{
+      padding: 10px 12px;
+
+      width: 40px;
+      height: 40px;
+
+      background: #FFFFFF;
+      border: 0.5px solid #C9CAD1;
+      box-sizing: border-box;
+      border-radius: 12px;
+
+
+      flex: none;
+      order: 1;
+      flex-grow: 0;
+    }
+
+  }
+
+
+
+}
+
+

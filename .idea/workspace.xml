@@ -34,10 +34,47 @@
       <change afterPath="$PROJECT_DIR$/../lab01/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab01/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab01/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/boot/router/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/pages/home/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/pages/profile/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/Poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/fonts/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/common/post.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/pages/create_account/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/style/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/src/style/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Index.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/boot/router/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/boot/router/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/pages/home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/pages/home/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +84,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
+        <option value="Sass File" />
         <option value="SCSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="25RBDplEkTAWi2iTM69wZL6sDB6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,6 +128,14 @@
       <recent name="C:\Users\chumi\WebstormProjects\linkstagram\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +148,19 @@
       <workItem from="1645548589320" duration="8649000" />
       <workItem from="1645618051415" duration="15357000" />
       <workItem from="1646729579905" duration="916000" />
-      <workItem from="1646736047211" duration="3185000" />
+      <workItem from="1646736047211" duration="4794000" />
+      <workItem from="1646946993673" duration="948000" />
+      <workItem from="1647365531075" duration="2833000" />
+      <workItem from="1647381010870" duration="864000" />
+      <workItem from="1647447739039" duration="3326000" />
+      <workItem from="1647451505287" duration="4264000" />
+      <workItem from="1647535360756" duration="5211000" />
+      <workItem from="1647608782569" duration="2840000" />
+      <workItem from="1647709006346" duration="602000" />
+      <workItem from="1647720062671" duration="1927000" />
+      <workItem from="1647760076407" duration="567000" />
+      <workItem from="1647760657935" duration="13094000" />
+      <workItem from="1647807890831" duration="2194000" />
     </task>
     <servers />
   </component>
