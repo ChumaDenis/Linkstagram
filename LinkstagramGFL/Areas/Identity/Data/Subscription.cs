@@ -8,6 +8,5 @@
 
         public string IdOfSubscriber { get; set; }
 
-        public DateTime DateTime { get; set; } = DateTime.Now;
     }
 }
