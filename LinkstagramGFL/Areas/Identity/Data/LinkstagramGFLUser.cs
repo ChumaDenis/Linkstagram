@@ -10,5 +10,7 @@ namespace LinkstagramGFL.Areas.Identity.Data;
 public class LinkstagramGFLUser : IdentityUser
 {
     public DateTime DateTime { get; set; } = DateTime.Now;
+
+
 }
 
