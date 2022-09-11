@@ -4,11 +4,11 @@ using System.Linq;
 
 namespace LinkstagramGFL.Models
 {
-    public class Facade
+    public class UserLogic
     {
-        public LinkstagramGFLContext _userContext { get; set; }
+        private LinkstagramGFLContext _userContext;
 
-        public Facade(LinkstagramGFLContext userContext)
+        public UserLogic(LinkstagramGFLContext userContext)
         {
             _userContext = userContext;
             

@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using User;
+using LinkstagramGFL.Areas.Identity.Data;
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("LinkstagramGFLContextConnection") ?? throw new InvalidOperationException("Connection string 'LinkstagramGFLContextConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 
 builder.Services.AddDbContext<LinkstagramGFLContext>(options =>
     options.UseSqlServer(connectionString));
