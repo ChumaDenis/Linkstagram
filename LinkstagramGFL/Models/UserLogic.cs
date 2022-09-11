@@ -29,9 +29,11 @@ namespace LinkstagramGFL.Models
 
         public void EditUser (LinkstagramGFLUser user)
         {
-            if (_userContext.Users.ToList().Find(x => x.Id == user.Id) != null)
+            var oldUser = _userContext.Users.ToList().Find(x => x.Id == user.Id);
+            if (oldUser != null)
             {
-                _userContext.Users.Remove(user);
+                user.DateTime = oldUser.DateTime;
+                _userContext.Users.Remove(oldUser);
                 _userContext.Users.Add(user);
                 _userContext.SaveChanges();
             }

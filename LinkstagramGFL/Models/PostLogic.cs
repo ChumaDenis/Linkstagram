@@ -31,16 +31,9 @@ namespace LinkstagramGFL.Models
             var oldPost = _postContext.Posts.ToList().Find(x => x.Id == post.Id);
             if (oldPost != null)
             {
-                var newPost = new PostInfo()
-                {
-                    Id = post.Id,
-                    DateTime = oldPost.DateTime,
-                    IdOfImage = post.IdOfImage,
-                    IdOfUser = post.IdOfUser,
-                    Signature = post.Signature
-                };
+                post.DateTime = oldPost.DateTime;
                 _postContext.Posts.Remove(oldPost);
-                _postContext.Posts.Add(newPost);
+                _postContext.Posts.Add(post);
                 _postContext.SaveChanges();
             }
             else
